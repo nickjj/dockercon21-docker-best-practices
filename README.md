@@ -1,5 +1,14 @@
 Here's reference links for my live demo talk from DockerCon 21.
 
+---
+
+#### Didn't watch it live? Here's the recording and the written version of the talk:
+
+- [YouTube video](https://www.youtube.com/watch?v=T--X3v2pwtU) (director's cut with ~4 min of extra content)
+- [~7,200 word blog post](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
+
+---
+
 ### Best Practices around Creating a Production Ready Web App with Docker and Docker Compose
 
 *May 27th 2021* 
